@@ -4,9 +4,8 @@ const asyncHandler = (requestHandler) => {
     }
 }
 
-
-
 export {asyncHandler}
+
 
 
 
@@ -20,4 +19,4 @@ export {asyncHandler}
 //             message: err.message  
 //         })
 //     }
-// }
+// } 
